@@ -1,0 +1,259 @@
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 80px;
+
+}
+.navbar-nav > li{
+    padding-left:10px;
+    padding-right:10px;
+  }
+.collapse{
+    margin-left: 300px;
+
+}   
+#homeid{
+    color:blue;
+}
+.nav-link2{
+    
+    margin-left: 280px;
+    border-radius: 30px;
+    background-color: white;
+    
+}
+.seconddiv{
+    margin-left: 80px;
+    margin-top: 100px;
+    color: rgb(59, 59, 155);
+    font-size: 3.75rem;
+    
+}
+.thirddiv{
+    height: 200px;
+    width:450px;
+    margin-left: 80px;
+
+}
+.btn{
+    color: white;
+    border-radius: 17px ;
+}
+.buttondiv{
+    margin-left: 80px;
+}
+.image{
+
+    float: right;
+    margin-left: 30px;
+    margin-right: 120px;
+    margin-bottom: 6    00px;
+}
+.whitebox{
+    height: 211px;
+    width: 290px;
+    background-color:white;
+    position: absolute;
+    right: 113px;
+    top: 531px;
+    border-radius: 24px;
+}
+.bluebox1{
+    width: 240px;
+    height: 50px;
+   background-color:  rgb(0 53 123);
+    margin-left: 20px;
+    margin-top: 16px;
+    padding-left: 50px;
+    padding-top: 10px;
+    color: aliceblue;
+    border-radius: 20px;
+}
+.bulb{
+    height:25px;
+    width:25px;
+    margin-right: 100px;
+    margin-top: 4px;
+
+}
+.scrolldiv{
+
+    position:absolute;
+    height: 700px;
+    width: 1349px;
+    margin-top: 135px;
+}
+#secondhead{
+    color:rgb( 0,38,89);
+    text-align: center;
+    font-size: 2.25rem;
+    line-height: 2.5rem
+}
+#secondpara{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    text-align: center;
+}
+#thirdhead{
+    color:rgb( 0,38,89);
+    margin-left: 80px;
+}
+.recruitmentpara{
+    height: 10px;
+    width: 400px;
+    color:rgb(107,114,128);
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    margin-left: 80px;
+}
+.recruitmentimage{
+    height: 550px;
+    width: 750px;
+    float: right;
+    max-width: 100%;
+    
+}
+.allignzlogo{
+    height: 100px;
+    width: 100px;
+}
+button.btn-warning:hover {
+    background-color:yellow;
+    border-color: yellow;
+    color: white;
+    
+    border-radius: 30px;
+  }
+  .btn-warning{
+    border-radius: 20px;    
+    border-color: yellow;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color:rgb(255,160,40)
+  }
+  .servicetwo{
+    height: 552px;
+    width: 583px;
+  }
+  .scrolldiv2{
+    position:absolute;
+    height: 600px;
+    width: 1349px;
+    margin-top: 843px;
+    
+
+  }
+  .staffing{
+    
+    position: absolute;
+    left: 700px;
+    top: 200px;
+    
+  }
+  #staffing{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+  .dbslogo{
+    position: absolute;
+    left: 700px;
+    top: 425px;
+  }
+  .buttonclass{
+    position: absolute;
+    left:700px;
+    top: 500px;
+  }
+  .scrolldiv3{
+    position:absolute;
+    height: 600px;
+    width: 1349px;
+    margin-top: 1444px;
+  }
+  .consulting{
+    margin-left: 80px ;
+    height: 200px;
+    width: 600px  ;
+  }
+  #imageservice3{
+    height: 435px;
+    width: 589px;
+  }
+  .imageservice3{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+  #gbm,#landmark{
+    height: 90px;
+    width: 142px;
+    
+
+  }
+  .gbmlandmark{
+    position: absolute;
+    left: 97px;
+    top: 187p;
+
+  }
+  .buttonclass3{
+    position: absolute;
+    left:112px;
+    top: 324px;
+    
+  }
+  .scrolldiv4{
+    position:absolute;
+    height: 600px;
+    width: 1349px;
+    margin-top: 1944px;
+
+    
+  }
+  #comp{
+    text-align: center;
+    --tw-text-opacity: 1;
+    color: rgb(75,85,99);
+    font-weight: 600;
+  }
+#allianzz{
+  height:121px;
+    width: 227px;
+
+}    
+.allianzz{
+  position: absolute;
+    left: 138px;
+    top: 102px;
+
+}
+#dbzz{
+  height:121px;
+    width: 162px;
+
+}    
+.dbzz{
+  position: absolute;
+  left: 413px;
+  top: 102px;
+}
+#fabb{
+  height:72px;
+    width: 162px;
+
+}    
+.fabb{
+  position: absolute;
+  left: 584px;
+  top: 124px;
+}
+#majibb{
+  height:121px;
+    width: 162px;
+
+}    
+.majibb{
+  position: absolute;
+  left: 755px;
+  top: 102px;
+}
